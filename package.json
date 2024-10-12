@@ -1,0 +1,12 @@
+{
+  "name": "stream-app",
+  "version": "1.0.0",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
